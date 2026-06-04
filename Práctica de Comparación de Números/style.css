@@ -1,0 +1,19 @@
+body {
+    justify-content: center;
+}
+
+#contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgb(65, 137, 168);
+    
+}
